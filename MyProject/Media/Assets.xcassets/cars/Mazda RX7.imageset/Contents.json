@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Mazda RX7.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

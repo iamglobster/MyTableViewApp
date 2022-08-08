@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Daewoo Lanos.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
